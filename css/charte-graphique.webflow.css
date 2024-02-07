@@ -2330,7 +2330,7 @@ figcaption {
 
 .link-2 {
   margin-right: 10px;
-  display: none;
+  display: block;
 }
 
 .link-3, .link-4, .link-5, .link-6, .link-7 {
@@ -5548,7 +5548,16 @@ figcaption {
   align-self: end;
 }
 
-#w-node-_5d6e1526-f751-d258-196a-5f24f26794e9-73901e97, #w-node-e92758ee-146e-3369-2003-5903d5b2f01a-e7f53dc5, #w-node-_0d4aa307-0904-842e-109e-ad10068ddee4-e7f53dc5, #w-node-_48bc1ba2-7518-d4a2-8078-233ee670f991-e7f53dc5 {
+#w-node-_5d6e1526-f751-d258-196a-5f24f26794e9-73901e97, #w-node-_2b9ef20a-5fb4-eb2f-fe22-25f36fb48346-73901e97, #w-node-e92758ee-146e-3369-2003-5903d5b2f01a-e7f53dc5 {
+  align-self: center;
+  justify-self: end;
+}
+
+#w-node-_91ac756c-4aa1-f6d5-f55a-975f250338e8-e7f53dc5 {
+  grid-area: span 1 / span 1 / span 1 / span 1;
+}
+
+#w-node-_0d4aa307-0904-842e-109e-ad10068ddee4-e7f53dc5, #w-node-_48bc1ba2-7518-d4a2-8078-233ee670f991-e7f53dc5 {
   align-self: center;
   justify-self: end;
 }
